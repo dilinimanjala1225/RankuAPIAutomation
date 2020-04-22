@@ -1,0 +1,36 @@
+{
+  "TestDataSets": [
+    {
+      "testcaseID": "MSU",
+      "site": "msu",
+      "program_id":"1578571507889" ,
+      "email": "testD4@test.com",
+      "zipcode": "56211",
+      "originCountry": "US",
+      "educationLevel": "high_school_diploma",
+      "first_name": "Test",
+      "last_name": "TestD",
+      "inquiryTopic": "admission_requirements",
+      "message": "none",
+      "interestedInApplying": false,
+      "fromRecommendation": false,
+      "phone" : "2342342345"
+    },
+    {
+      "testcaseID": "SUNY",
+      "site": "msu",
+      "program_id":"1578571507889" ,
+      "email": "testD5@test.com",
+      "zipcode": "56211",
+      "originCountry": "US",
+      "educationLevel": "high_school_diploma",
+      "first_name": "Test",
+      "last_name": "TestD",
+      "inquiryTopic": "admission_requirements",
+      "message": "none",
+      "interestedInApplying": false,
+      "fromRecommendation": false,
+      "phone" : "2342342345"
+    }
+  ]
+}
